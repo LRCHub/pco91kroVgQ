@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Applause",
+  "base_artist": "Lady Gaga",
+  "createdAt": "2026-02-23T05:27:25.359951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Applause",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/01_Applause_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Applause (DJ White Shadow Electrotech Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/02_Applause_(DJ_White_Shadow_Electrotech_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Applause (Empire of the Sun Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": false,
+      "path": "select/03_Applause_(Empire_of_the_Sun_Remix)_Lady_Gaga.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Applause (Empire of the Sun Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/04_Applause_(Empire_of_the_Sun_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Applause (Viceroy Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/05_Applause_(Viceroy_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Decatur, or, Round of Applause for Your Step-Mother!",
+      "artist": "Sufjan Stevens",
+      "has_synced": false,
+      "path": "select/06_Decatur,_or,_Round_of_Applause_for_Your_Step-Mother!_Sufjan_Stevens.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Decatur, or, Round of Applause for Your Stepmother!",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/07_Decatur,_or,_Round_of_Applause_for_Your_Stepmother!_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Prologue: A Faint Applause...",
+      "artist": "Thank You Scientist",
+      "has_synced": true,
+      "path": "select/08_Prologue__A_Faint_Applause..._Thank_You_Scientist.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Prologue… A Faint Applause",
+      "artist": "Thank You Scientist",
+      "has_synced": true,
+      "path": "select/09_Prologue..._A_Faint_Applause_Thank_You_Scientist.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Round of Applause",
+      "artist": "Waka Flocka Flame feat. Drake",
+      "has_synced": true,
+      "path": "select/10_Round_of_Applause_Waka_Flocka_Flame_feat._Drake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Round Of Applause (Feat. Drake)",
+      "artist": "Waka Flocka Flame",
+      "has_synced": true,
+      "path": "select/11_Round_Of_Applause_(Feat._Drake)_Waka_Flocka_Flame.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Applause (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/12_Applause_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Applause (DJ White Shadow Trap Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/13_Applause_(DJ_White_Shadow_Trap_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rebel Without Applause",
+      "artist": "Every Time I Die",
+      "has_synced": true,
+      "path": "select/14_Rebel_Without_Applause_Every_Time_I_Die.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Applause",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/15_Applause_Lady_Gaga.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "APPLAUSE",
+      "artist": "Lady Gaga",
+      "has_synced": false,
+      "path": "select/pl_01_APPLAUSE_Lady_Gaga.txt"
+    }
+  ]
+}
